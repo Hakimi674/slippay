@@ -23,7 +23,7 @@
   },
   "pnpm": {
     "overrides": {
-      "@solana-program/token>@solana/kit": "5.5.1"
+      "@solana-program/token>@solana-kit": "5.5.1"
     }
   }
 }
